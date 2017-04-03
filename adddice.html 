@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+
+var a = prompt("Give me a number to roll first (1-6)");
+var b = prompt ("Give me a second number to roll (1-6)");
+var aa = parseInt(a,10);
+var bb = parseInt (b,10);
+var sum = aa+bb 
+console.log ("The sum of both rolls is "+sum+".");
+
+
+
+</script>
+</body>
+</html>                                                                              
